@@ -13,5 +13,5 @@ Using special commands for Azure Boards: "Fix,Fixed,Fixes,Fixings"
 Testing Fixed with multiple items 
 Testing2 Fixed with multiple items 
 
-Tests with VS Code 
+Tests with VS Code and Azure boards
 
