@@ -25,7 +25,6 @@ Diferent options to navigate trought the habitats and the diferent animals or pl
 >>- "Menu" to show Navigation Bar
 >>- Introduction about the topic at the beginning 
 >### Navigation Bar
->>- Logo?
 >>- More section to display information about the book and where to adquire it
 >>- Features section to display information about the updates of the web page
 >>- Overview section to show the Index and topics of the site
