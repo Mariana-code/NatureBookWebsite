@@ -1,0 +1,15 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    width: 100vw;
+    background-color: #8ecbd3;
+}
+
+h1 {
+    font-size: 8rem;
+    color: #9cfcef;
+    margin-bottom: 1rem;
+}
